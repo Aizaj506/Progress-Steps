@@ -21,13 +21,13 @@ body {
 }
 
 .container {
-  border: 2px solid black;
+  /* border: 2px solid black; */
   text-align: center;
 }
 
 .progress-container {
   position: relative;
-  border: 1px solid blue;
+  /* border: 1px solid blue; */
   display: flex;
   justify-content: space-between;
   margin-bottom: 33px;
@@ -48,7 +48,7 @@ body {
 }
 
 .progress {
-  border: 1px solid orangered;
+  /* border: 1px solid orangered; */
   background-color: var(--color1);
   position: absolute;
   top: 50%;
@@ -61,7 +61,7 @@ body {
 }
 
 .circle {
-  border: 1px dotted green;
+  /* border: 1px dotted green; */
   background-color: #fff;
   color: #999;
   width: 30px;
